@@ -1,5 +1,5 @@
 {
-  "FEATURE_ENABLE_OUTAGE_ALERT_BAR": true,
-  "OUTAGE_ALERT_MESSAGE": "We are currently experiencing outages. Account login and loading data may be affected. We apologize for the inconvenience and thank you for your patience.",
+  "FEATURE_ENABLE_OUTAGE_ALERT_BAR": false,
+  "OUTAGE_ALERT_MESSAGE": "We apologize for the inconvenience and thank you for your patience.",
   "OUTAGE_ALERT_TYPE": "ALL"
 }
